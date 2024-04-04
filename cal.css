@@ -1,0 +1,31 @@
+.calcbutton{
+    border-radius: 10px;
+    padding:2px 20px 2px 20px;
+    margin: 6px;
+    background-color: #fbfbfb;
+    color: black;
+    border:1px groove black;
+   
+}
+.calcbutton:hover{
+    background-color: black;
+    color:white;
+}
+.calc{
+border-radius: 10px;
+margin:10px;
+}
+
+h2{
+    margin:0px 10px 0px 10px;
+    padding: 1px 10px 2px 10px;
+}
+
+/* nagivate page */
+ul{
+    display:flex;
+    gap:20px;
+}
+ul{
+    list-style-type:none;
+}
