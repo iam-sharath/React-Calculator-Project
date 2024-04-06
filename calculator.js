@@ -112,3 +112,12 @@ const allclear =()=>{
 }
 
 export default Calculator;
+
+// reusable function
+// const expression = (x)=> {
+//     let math = digit.charAt(digit.length-1)
+//      if(math == "/" || math =="*" || math =="+" || math =="-"|| math =="."){
+//       setDigit(digit.slice(0, -1)+ x)
+//     }else{
+//     setDigit(digit+ x)
+//     }}
